@@ -9,14 +9,14 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sonu-shettiyar-071965228/" target="_blank">
+  <a href="https://www.linkedin.com/in/deepak0606/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="sonubadmash003@gmail.com" target="_blank">
+  <a href="25yadavdeepak@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   
-  <a href="https://wa.me/8381083498" target="_blank">
+  <a href="https://wa.me/9140443308" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Sonu+Krishnamurti+Shettiyar....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Deepak+Yadav....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
@@ -39,7 +39,7 @@
 
 ###
 <div>
-<h2 align="left">I am 💪Deepak Yadav from Up
+<h2 align="left">I am 💪Deepak Yadav from PrayagRaj, Uttar Pradesh
   </h2>
  
   <br>
@@ -47,12 +47,12 @@
 🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1dWHHUH6uZrnvy2odtlG4mPY6iEu-XvMX/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://sonu-shettiyar.github.io/">Portfolio</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/16uZL3iaG_bQxIvXD_gcu-u-bIvO21NSS/view?usp=share_link">Resume</a><br><br>
+ 📫  Know more about me <a href="https://github.com/Deepak-25yadav/Deepak-25yadav.github.io">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/Sonu-Shettiyar">My Github Repositories</a><br><br>
+<a href="https://github.com/Deepak-25yadav">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
- ⚡ How to reach me <a href="sonushettiyar9393@gmail.com">sonushettiyar9393@gmail.com</a>
+ ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 ###
