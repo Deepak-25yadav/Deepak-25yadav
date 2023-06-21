@@ -39,7 +39,7 @@
 
 ###
 <div>
-<h2 align="left">I am 💪Deepak Yadav from PrayagRaj, Uttar Pradesh
+<h2 align="left">I am 💪Deepak Yadav from Prayagraj, Uttar Pradesh
   </h2>
  
   <br>
