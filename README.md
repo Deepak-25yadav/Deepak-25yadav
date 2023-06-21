@@ -47,7 +47,7 @@
 🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/16uZL3iaG_bQxIvXD_gcu-u-bIvO21NSS/view?usp=share_link">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUEDZbWohQFOxCGTjl5cdYdI1bO7iT86/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://github.com/Deepak-25yadav/Deepak-25yadav.github.io">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Deepak-25yadav">My Github Repositories</a><br><br>
