@@ -60,7 +60,7 @@
  🌱 Seeking guidance for Open Source Contributions. Grateful for your help.
  
  😄 All of my projects are available at
-<a href="https://github.com/Deepak-25yadav">My Github Repositories</a><br> <br>
+<a href="https://github.com/Deepak-25yadav?tab=repositories">My Github Repositories</a><br> <br>
  💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB<br> <br>
  ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a> <br/>  <br>
  ⚡ Mobile/Whats'app: +91 9140443308
