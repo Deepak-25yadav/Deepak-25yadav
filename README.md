@@ -2,7 +2,10 @@
                                    
 <div align="center">
   <h1  align="center"> Hii,👋 I'm Deepak Yadav </h1>
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+   <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"  />
+  
+<!--  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />  -->
+  
 </div>
 
 ###
@@ -39,7 +42,8 @@
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Deepak+Yadav....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<a href="https://git.io/typing-svg" padding-top="100px"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Deepak+Yadav....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
@@ -48,23 +52,30 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<div>
-<h2 align="left">I am from Prayagraj, Uttar Pradesh</h2>
-  <br>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr);" >
+  <div>
+<h2 align="left">I am from Prayagraj, Uttar Pradesh</h2> <br>
+ 
   
-🔭 I’m currently learning " Full Stack Web Development ". <br><br>
- 🌱 Seeking guidance for Open Source Contributions. Grateful for your help.<br><br>
+🔭 I’m currently learning " Full Stack Web Development ". <br> <br>
+ 🌱 Seeking guidance for Open Source Contributions. Grateful for your help.
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
 <!-- 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUEDZbWohQFOxCGTjl5cdYdI1bO7iT86/view?usp=sharing">
 ![Resume](https://img.shields.io/badge/Resume-%23333.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)
  </a><br><br>
  📫  Know more about me <a href="https://deepak-25yadav.github.io/">Portfolio</a><br><br> -->
  😄 All of my projects are available at
-<a href="https://github.com/Deepak-25yadav">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, JavaScript, React, Redux, Chakra-Ui, Node.js, Express.js, MongoDB<br><br>
- ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a> <br/> <br/>
+<a href="https://github.com/Deepak-25yadav">My Github Repositories</a><br> <br>
+ 💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB<br> <br>
+ ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a> <br/>  <br>
  ⚡ Mobile/Whats'app: +91 9140443308
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+</div>
+
+<div>
+  
+ <!-- Inside this div put the image of statistics of Tejas github  -->
+</div>
 </div>
 ###
 
