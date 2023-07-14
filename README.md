@@ -1,11 +1,12 @@
-<!-- ### Hi there 👋 -->
-                                   
+
+                                 
 <div align="center">
   <h1  align="center"> Hii,👋 I'm Deepak Yadav </h1>
+  
   <h3 align="center"> 
-    I'm a Full Stack Web Developer with hands-on experience designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision, and DS & Algo.
-  </h3> <br/>
-   <img height="300px" width="500px" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"  />
+    I'm a Full Stack Web Developer with hands-on experience designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision, and DS & Algo. </h3> <br/>
+  
+<img height="300px" width="500px" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" />
   
 <!--  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />  -->
   
@@ -18,23 +19,24 @@
 <div align="center">
   
 <a href="https://drive.google.com/file/d/16uZL3iaG_bQxIvXD_gcu-u-bIvO21NSS/view" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="resume logo"  />
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="resume logo"/>
   </a>
 
 <a href="https://deepak-25yadav.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"/>
   </a>
   
   <a href="https://www.linkedin.com/in/deepak0606/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
   <a href="25yadavdeepak@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
   </a>
   
   <a href="https://wa.me/9140443308" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>
   </a>
+  
 </div>
 
 ###
@@ -170,90 +172,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- // Below This not having my code Only above this having my code  -->
-
-
-
-
-
-
-
-<!-- <h3 align="left">🔥   My Stats </h3>
-
-###
-<!-- <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonu-Shettiyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-  <img src="https://streak-stats.demolab.com?user=Sonu-Shettiyar&locale=en&mode=weekly&theme=monokai&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
- -->
-###
-
-<!-- <div align="left"> -->
-
- 
-</div>
-
-###
-
-<!-- <div align="center">
-  <br>
- <p align="center">
-  <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=Sonu-Shettiyar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
- <br>
-  <img src="https://profile-counter.glitch.me/Sonu-Shettiyar/count.svg?"  />
-</div>
-
-###
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/"> -->
-<!--    <a href="https://Sonu-Shettiyar.github.io"> -->
-<!--   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> -->
-<!-- <img src="https://raw.githubusercontent.com/Sonu-Shettiyar/Sonu-Shettiyar/blob/output/snake.svg" alt="Snake animation" /> -->
-
-###
-<!--
-**Sonu-Shettiyar/Sonu-Shettiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- -->
