@@ -49,20 +49,21 @@
 
 ###
 <div>
-<h2 align="left">I am Deepak Yadav from Prayagraj, Uttar Pradesh</h2>
+<h2 align="left">I am from Prayagraj, Uttar Pradesh</h2>
   <br>
   
 🔭 I’m currently learning " Full Stack Web Development ". <br><br>
- 🌱 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful<br><br>
+ 🌱 Seeking guidance for Open Source Contributions. Grateful for your help.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUEDZbWohQFOxCGTjl5cdYdI1bO7iT86/view?usp=sharing">
+<!-- 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUEDZbWohQFOxCGTjl5cdYdI1bO7iT86/view?usp=sharing">
 ![Resume](https://img.shields.io/badge/Resume-%23333.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)
  </a><br><br>
- 📫  Know more about me <a href="https://deepak-25yadav.github.io/">Portfolio</a><br><br>
+ 📫  Know more about me <a href="https://deepak-25yadav.github.io/">Portfolio</a><br><br> -->
  😄 All of my projects are available at
 <a href="https://github.com/Deepak-25yadav">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
- ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a>
+ 💬 Ask me about HTML, CSS, JavaScript, React, Redux, Chakra-Ui, Node.js, Express.js, MongoDB<br><br>
+ ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a> <br/> <br/>
+ ⚡ Mobile/Whats'app: +91 9140443308
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 ###
