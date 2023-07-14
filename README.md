@@ -2,6 +2,9 @@
                                    
 <div align="center">
   <h1  align="center"> Hii,👋 I'm Deepak Yadav </h1>
+  <h3 align="center"> 
+    I'm a Full Stack Web Developer with hands-on experience designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision, and DS & Algo.
+  </h3> <br/>
    <img height="300px" width="500px" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"  />
   
 <!--  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />  -->
@@ -63,7 +66,7 @@
 <a href="https://github.com/Deepak-25yadav?tab=repositories">My Github Repositories</a><br> <br>
  💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB<br> <br>
  ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a> <br/>  <br>
- ⚡ Mobile/Whats'app: +91 9140443308
+ ⚡ Mobile/Whats'app No.: +91 9140443308
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 </div>
