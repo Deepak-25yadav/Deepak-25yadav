@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
-
+                                   
 <div align="center">
+  <h1  align="center"> Hii,👋 I'm Deepak Yadav </h1>
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
@@ -39,15 +40,15 @@
 
 ###
 <div>
-<h2 align="left">I am Deepak Yadav from Prayagraj, Uttar Pradesh
-  </h2>
- 
+<h2 align="left">I am Deepak Yadav from Prayagraj, Uttar Pradesh</h2>
   <br>
   
-🔭 I’m currently preparing for placements!. <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
+🔭 I’m currently learning " Full Stack Web Development ". <br><br>
+ 🌱 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUEDZbWohQFOxCGTjl5cdYdI1bO7iT86/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1uUEDZbWohQFOxCGTjl5cdYdI1bO7iT86/view?usp=sharing">
+![Resume](https://img.shields.io/badge/Resume-%23333.svg?style=flat&logo=adobe-acrobat-reader&logoColor=white)
+ </a><br><br>
  📫  Know more about me <a href="https://deepak-25yadav.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Deepak-25yadav">My Github Repositories</a><br><br>
@@ -95,7 +96,7 @@
  ![ Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-%237FCAE7.svg?style=flat)
  <!--    ![]()   --> 
  ## Back-end
- [NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
  ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?style=flat)
@@ -109,7 +110,8 @@
  ![Encryption](https://img.shields.io/badge/Encryption-%23336791.svg?style=flat)
 ## Tools 
  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+ ![GitBash](https://img.shields.io/badge/Git%20Bash-%23F05032.svg?style=flat&logo=git&logoColor=white)
  ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)
  ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
  ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
