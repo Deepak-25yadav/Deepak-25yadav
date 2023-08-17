@@ -4,7 +4,7 @@
   <h1  align="center"> Hii,👋 I'm Deepak Yadav </h1>
   
   <h3 align="center"> 
-    I'm a Full Stack Web Developer with hands-on experience designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision, and DS & Algo. </h3> <br/>
+   Aspiring Full Stack MERN developer skilled in crafting responsive interfaces, building RESTful APIs, and ensuring data integrity. Passionate about clean code and innovative solutions.. </h3> <br/>
   
 <img height="300px" width="500px" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" />
   
