@@ -55,13 +55,22 @@
 
 <!-- ### -->
 
-<h3 align="left">👩‍💻  About Me</h3>
+##  Experience 👩‍💻
+### Junior Software Developer at [hushl.ai](https://www.hushl.ai)
+- Location: Bengaluru, Karnataka
+- Duration: Dec 2023 - May 2024
 
-###
-<div>
-  
-<h2 align="left">I am from Prayagraj, Uttar Pradesh</h2> <br>
+    - **Spark (dating app):** Built onboarding, edit profile, and my-bookings screens using JavaScript, React-Native.
+    - **Integrated Google Maps & OpenAI (ChatGPT):** Used Node.js for integration.
+    - **Developed Responsive Web Designs:** Utilized HTML, CSS, JavaScript, and React.
+    - **Created Admin Dashboards and Internal Tools:** Leveraged React, Node.js, News API, YouTube API, and OpenAI API.
 
+### Assessment Assistant (AA) at [Masai School](https://www.masaischool.com)
+- Location: Bengaluru, Karnataka
+- Duration: Oct 2023 - Dec 2023
+
+    - **Conducted Interviews:** For students completing 2-3 month courses on HTML, CSS, and JavaScript.
+***
   <br> <br>
  🌱 Seeking guidance for Open Source Contributions. Grateful for your help.
  
