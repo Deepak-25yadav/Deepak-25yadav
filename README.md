@@ -4,7 +4,8 @@
   <h1  align="center"> Hii,👋 I'm Deepak Yadav </h1>
   
   <h3 align="center"> 
-   Aspiring Full Stack MERN developer skilled in crafting responsive interfaces, building RESTful APIs, and ensuring data integrity. Passionate about clean code and innovative solutions.. </h3> <br/>
+   Accomplished Full Stack Developer with comprehensive experience in designing and implementing robust web solutions. Skilled in front-end technologies such as HTML5, CSS3, JavaScript, React, and Redux, as well as back-end technologies including Node.js, Express.js, and MongoDB. Proven ability to lead development projects, collaborate effectively with multidisciplinary teams, and deliver high-quality products on time. Committed to continuous improvement and adept at adapting to evolving technology landscapes. </h3> <br/>
+
   
 <img height="300px" width="500px" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" />
   
