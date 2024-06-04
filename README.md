@@ -61,8 +61,8 @@
 <div>
   
 <h2 align="left">I am from Prayagraj, Uttar Pradesh</h2> <br>
- 
-🔭 I’m currently learning " Full Stack Web Development ". <br> <br>
+
+  <br> <br>
  🌱 Seeking guidance for Open Source Contributions. Grateful for your help.
  
  😄 All of my projects are available at
