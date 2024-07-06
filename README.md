@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/static/v1?message=Resume&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="resume logo"/>
   </a>
 
-<a href="https://deepak-25yadav.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"/>
+<!-- <a href="https://deepak-25yadav.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"/> -->
   </a>
   
   <a href="https://www.linkedin.com/in/deepak0606/" target="_blank">
