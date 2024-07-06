@@ -19,8 +19,8 @@
 
 <div align="center">
   
-<a href="https://drive.google.com/file/d/1UlsGl6B8UjDJqb7q-upB6su6-qqWxmB_/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="resume logo"/>
+<!-- <a href="https://drive.google.com/file/d/1UlsGl6B8UjDJqb7q-upB6su6-qqWxmB_/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="resume logo"/> -->
   </a>
 
 <!-- <a href="https://deepak-25yadav.github.io/" target="_blank">
