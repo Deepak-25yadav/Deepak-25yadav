@@ -77,9 +77,9 @@
  😄 All of my projects are available at
 <a href="https://github.com/Deepak-25yadav?tab=repositories">My Github Repositories</a><br> <br>
  💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB<br> <br>
- ⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a> <br/>  <br>
+ <!--⚡ How to reach me <a href="25yadavdeepak@gmail.com">25yadavdeepak@gmail.com</a> <br/>  <br> -->
  ⚡ Mobile/Whats'app No.: +91 9140443308
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+<!-- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> -->
 
 </div>
 
