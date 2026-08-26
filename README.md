@@ -3,8 +3,16 @@
 <div align="center">
   <h1  align="center"> Hii,👋 I'm Deepak Yadav </h1>
   
-  <h3 align="center"> 
-   Experienced Full Stack Developer with implementing robust web and app solutions. Skilled in front-end technologies such as HTML5, CSS3, JavaScript, React, React-Native, and Redux as well as back-end technologies including Node.js, Express.js, and MongoDB. Proven ability to lead development projects, collaborate effectively with multidisciplinary teams, and deliver high-quality products on time. Committed to continuous improvement and adept at adapting to evolving technology landscapes.</h3> <br/> 
+  <p align="center"> 
+  <h3> Full-Stack Software Engineer | GenAI & RAG Engineer </h3>
+
+Full-Stack Software Engineer with 3+ years of professional experience building and shipping production-grade web applications and AI-powered platforms.
+
+I specialize in React.js, Node.js, Angular, MongoDB, Generative AI, RAG pipelines, vector search, and LLM integrations using technologies such as OpenAI and Google Gemini.
+
+I have worked on scalable multi-tenant SaaS platforms, AI evaluation systems, real-time applications, asynchronous job-processing pipelines, and enterprise applications serving users across government, enterprise, education, and consumer domains.
+
+My current focus is building reliable AI-powered products that combine strong software engineering with LLMs, RAG, vector databases, prompt engineering, AI evaluation, and production-ready backend architecture.</p> <br/> 
 
   
 <img height="300px" width="500px" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" />
@@ -19,12 +27,12 @@
 
 <div align="center">
   
-<!-- <a href="https://drive.google.com/file/d/1UlsGl6B8UjDJqb7q-upB6su6-qqWxmB_/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="resume logo"/> -->
+ <a href="https://drive.google.com/file/d/1oWsoqjKiESqmOnw1tcdeCFxWwSQznjPM/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="resume logo"/> 
   </a>
 
-<!-- <a href="https://deepak-25yadav.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"/> -->
+ <a href="https://deepak-25yadav.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=data:image/svg+xml;base64,INSERT_LOGO_ENCODED_HERE&label=&color=INSERT_COLOR_HERE&logoColor=INSERT_LOGO_COLOR_HERE&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"/>
   </a>
   
   <a href="https://www.linkedin.com/in/deepak0606/" target="_blank">
@@ -34,9 +42,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
   </a>
   
-<!--  <a href="https://wa.me/9140443308" target="_blank">
+  <a href="https://wa.me/9140443308" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/>
-  </a> -->
+  </a> 
   
 </div>
 
@@ -56,20 +64,30 @@
 <!-- ### -->
 
 ##  Experience 👩‍💻
+
+### Associate Software Engineer — VenturePact (Master's Union)
+- Duration: September 2024 – May 2026
+- Location: Gurgaon, Haryana
+
+- Owned end-to-end development across 3 enterprise AI platforms, collaborating with product managers, QA engineers, and UX designers in an Agile environment.
+- Built AI-powered platforms using Node.js, TypeScript, Angular, MongoDB, OpenAI, Google Gemini, BullMQ, Redis, AWS, and Socket.io.
+- Designed and implemented RAG pipelines, vector search, multi-modal AI evaluation, asynchronous AI processing, multi-tenant architecture, RBAC, analytics, and real-time systems.
+- Worked on AI platforms serving government, education, entrepreneurship, and enterprise use cases.
+
 ### Junior Software Developer at [hushl.ai](https://www.hushl.ai)
+- Duration: Dec 2022 - May 2024
 - Location: Bengaluru, Karnataka
-- Duration: Dec 2023 - May 2024
 
     - **Spark (dating app):** Built onboarding, edit profile, and my-bookings screens using JavaScript, React-Native.
     - **Integrated Google Maps & OpenAI (ChatGPT):** Used Node.js for integration.
     - **Developed Responsive Web Designs:** Utilized HTML, CSS, JavaScript, and React.
     - **Created Admin Dashboards and Internal Tools:** Leveraged React, Node.js, News API, YouTube API, and OpenAI API.
 
-### Assessment Assistant (AA) at [Masai School](https://www.masaischool.com)
+<!-- ### Assessment Assistant (AA) at [Masai School](https://www.masaischool.com)
 - Location: Bengaluru, Karnataka
 - Duration: Oct 2023 - Dec 2023
 
-    - **Conducted Interviews:** For students completing 2-3 month courses on HTML, CSS, and JavaScript.
+    - **Conducted Interviews:** For students completing 2-3 month courses on HTML, CSS, and JavaScript. -->
 ***
   <br> <br>
  🌱 Seeking guidance for Open Source Contributions. Grateful for your help.
@@ -130,7 +148,23 @@
  ![HTTP](https://img.shields.io/badge/HTTP-%231572B6.svg?style=flat)
  ![bcrypt](https://img.shields.io/badge/bcrypt-%234479A1.svg?style=flat)
  ![Encryption](https://img.shields.io/badge/Encryption-%23336791.svg?style=flat)
-## Tools 
+
+ ## AI / GenAI / RAG Skills
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6A5ACD?style=flat)
+![Vector Search](https://img.shields.io/badge/Vector_Search-FF6F00?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-5C6BC0?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
+ 
+## Infrastructure & Devops 
  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
  ![GitBash](https://img.shields.io/badge/Git%20Bash-%23F05032.svg?style=flat&logo=git&logoColor=white)
